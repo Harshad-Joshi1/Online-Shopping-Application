@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
 
 
 /*
-It's the main page which shows an overview on this app.
+It's the main page which shows an overview on this app..
 SafeArea widget has been used in homePage to wrap everything(widgets) in a screen when app implements in different screen size mobiles.
 RegistrationForm() class under SafeAreaWidget extends statefullWidget which is used to take us to the form-creation pages.
 */
