@@ -90,6 +90,7 @@ class _RegistrationFormState extends State<RegistrationForm> {
                         ),
                       ),
                     ),
+                    //CHECKBOX
                     Expanded(
                       child: CheckBox(),
                       /*
